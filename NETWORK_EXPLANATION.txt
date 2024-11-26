@@ -1,0 +1,7 @@
+
+Subnet and Static IP Range Selection:
+- Subnet: 192.168.1.0/24
+- Static IPs:
+  - Web Service: 192.168.1.100
+  - Database Service: 192.168.1.101
+
