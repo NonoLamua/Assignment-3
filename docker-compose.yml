@@ -1,0 +1,9 @@
+
+version: '3.9'
+services:
+  web:
+    image: python:3.9
+    container_name: web_service
+    ports:
+      - "8000:8000"
+
