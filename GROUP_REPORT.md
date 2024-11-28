@@ -1,0 +1,1 @@
+Group Collaboration Report: - Nono Lamua: Created repository and README.md - Pablo Muñoz: Docker-compose configuration. - Francisco Climent: Network explanation. - Rafa Moro: Security documentation and .env setup. - Yago Granada: Troubleshooting documentation. - Narcís Agustí: Group report and review. 
