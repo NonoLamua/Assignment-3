@@ -89,7 +89,9 @@ Deliverables:
 
 **How to Run the Application**
 Prerequisites:
+
 Install Docker and Docker Compose.
+
 Clone this repository:
 
 git clone git@github.com:NonoLamua/Assignment-3.git
@@ -100,16 +102,20 @@ Steps to Run:
 Create a .env file (or use the provided template):
 
 POSTGRES_USER=user
+
 POSTGRES_PASSWORD=password
+
 POSTGRES_DB=exampledb
+
 WEB_PORT=8000
 
 Build and start the application:
+
 docker-compose up -d
 
 Verify services are running:
 
-bash
+
 docker ps
 
 Access the web service in your browser at:
