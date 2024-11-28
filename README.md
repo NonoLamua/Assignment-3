@@ -12,6 +12,7 @@ This assignment demonstrates collaborative software development using Git and Do
 **Repository Structure**
 
 Assignment-3/
+
 ├── README.md                      # Project overview and documentation
 
 ├── docker-compose.yml             # Docker Compose configuration for web and database services
