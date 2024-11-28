@@ -13,12 +13,19 @@ This assignment demonstrates collaborative software development using Git and Do
 
 Assignment-3/
 ├── README.md                      # Project overview and documentation
+
 ├── docker-compose.yml             # Docker Compose configuration for web and database services
+
 ├── Dockerfile                     # Multi-stage build for the web service
+
 ├── .env                           # Environment variables (excluded in Git)
+
 ├── NETWORK_EXPLANATION.txt        # Explanation of custom network configuration
+
 ├── SECURITY_EXPLANATION.txt       # Security practices for sensitive files
+
 ├── TROUBLESHOOTING.md             # Issues faced during deployment and solutions
+
 ├── GROUP_REPORT.md                # Group contributions, challenges, and lessons learned
 
 **Part 1: Git Repository Setup and Collaboration**
