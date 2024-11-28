@@ -1,0 +1,4 @@
+Security Practices:
+- Use .gitignore to exclude sensitive files like .env.
+- Risks include exposing database credentials or API keys if sensitive files are pushed to the repository.
+- Always verify that sensitive information is not committed.
