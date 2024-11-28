@@ -110,9 +110,14 @@ http://localhost:8000
 
 **Group Members**
 
-Member 1: [Nono Lamúa] - Git setup and README.md
-Member 2: [Pablo Muñoz] - docker-compose.yml
-Member 3: [Francisco Climent] - NETWORK_EXPLANATION.txt
-Member 4: [Rafael Moro] - .env and SECURITY_EXPLANATION.txt
-Member 5: [Yago Granada] - TROUBLESHOOTING.md
-Member 6: [Narcís Agustí] - GROUP_REPORT.md
+- Member 1: [Nono Lamúa] - Git setup and README.md
+
+- Member 2: [Pablo Muñoz] - docker-compose.yml
+
+- Member 3: [Francisco Climent] - NETWORK_EXPLANATION.txt
+
+- Member 4: [Rafael Moro] - .env and SECURITY_EXPLANATION.txt
+
+- Member 5: [Yago Granada] - TROUBLESHOOTING.md
+
+- Member 6: [Narcís Agustí] - GROUP_REPORT.md
