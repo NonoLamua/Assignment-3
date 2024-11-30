@@ -48,7 +48,7 @@ Assignment-3/
 
 Deliverables:
 
-- Repository URL: git@github.com:NonoLamua/Assignment-3.git
+- Repository URL: https://github.com/NonoLamua/Assignment-3.git
 - Screenshots (Added in the ZIP file):
 - git log with commits from all members.
 
