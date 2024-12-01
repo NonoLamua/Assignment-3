@@ -5,3 +5,14 @@ Subnet and Static IP Range Selection:
   - Web Service: 192.168.1.100
   - Database Service: 192.168.1.101
 
+This subnet was chosen because it provides sufficient IP addresses for our services and avoids conflicts with other networks.
+
+Impact of Overlapping Subnets:
+ - If the subnet overlaps with an existing network on the host system or another Docker network, it can cause routing conflicts. - This may result in communication failures between containers or between containers and external systems. 
+- To avoid this, we selected a unique subnet that does not overlap with any known networks on the host system.
+
+Explanation of DNS Resolution in Docker:
+- Docker's embedded DNS server allows containers in the same custom network to resolve each other using their service names.
+- For example, the web service can connect to the database service using the name `db_service` instead of its IP address.
+- This is configured automatically by Docker when using custom networks defined in `docker-compose.yml`.
+
